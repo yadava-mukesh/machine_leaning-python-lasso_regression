@@ -1,2 +1,2 @@
 # machine_leaning-python-XGboost
-I have performed XGBoost
+I have performed lasso regression
